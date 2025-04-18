@@ -63,7 +63,7 @@ public class HomeController {
 	}
 	public void m1()
 	{
-		
+		Syste.ut.println();
 	}
 	
 
