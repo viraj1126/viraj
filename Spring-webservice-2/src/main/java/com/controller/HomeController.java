@@ -65,6 +65,10 @@ public class HomeController {
 	{
 		Syste.ut.println();
 	}
+	public void m1()
+	{
+		Syste.ut.println();
+	}
 	
 
 }
